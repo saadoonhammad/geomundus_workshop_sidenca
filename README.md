@@ -64,7 +64,32 @@ The workshop will use a combination of open-source and freely available geospati
 
 
 > Specific packages, scripts and environments used during the training will be provided through this repository where applicable.
+---
+## Data to Be Shared
 
+The workshop datasets will be shared through **Google Drive**. The shared data will be organised according to the different stages of the workshop workflow. Participants can access the relevant datasets as they progress through the training.
+
+### Workshop Data Repository
+
+| Dataset / Data Group | Description | Link |
+|----------------------|-------------|------|
+| Sentinel-2 imagery | Pre- and post-fire satellite imagery | Google Drive |
+| Fire-event data | Fire perimeter and event information | Google Drive |
+| Modelling dataset | Harmonised workshop modelling dataset | Google Drive |
+| Machine-learning outputs | Example model outputs and predictions | Google Drive |
+| Workshop outputs | Reference results and supporting files | Google Drive |
+
+> **Note:** The Google Drive links will be added before the workshop. Participants are encouraged to access the relevant datasets before the corresponding workshop sessions.
+
+### Data Access Notes
+
+| Item | Details |
+|------|---------|
+| Platform | Google Drive |
+| Organisation | By workshop stage |
+| Access | Links provided before workshop |
+| Recommendation | Download relevant data before each session |
+---
 
 ## Block 1 — Wildfire Case Study
 
@@ -200,32 +225,8 @@ The workshop will use a combination of open-source and freely available geospati
 
 ---
 
-## Data to Be Shared
 
-The workshop datasets will be shared through **Google Drive**. The shared data will be organised according to the different stages of the workshop workflow. Participants can access the relevant datasets as they progress through the training.
 
-### Workshop Data Repository
-
-| Dataset / Data Group | Description | Link |
-|----------------------|-------------|------|
-| Sentinel-2 imagery | Pre- and post-fire satellite imagery | Google Drive |
-| Fire-event data | Fire perimeter and event information | Google Drive |
-| Modelling dataset | Harmonised workshop modelling dataset | Google Drive |
-| Machine-learning outputs | Example model outputs and predictions | Google Drive |
-| Workshop outputs | Reference results and supporting files | Google Drive |
-
-> **Note:** The Google Drive links will be added before the workshop. Participants are encouraged to access the relevant datasets before the corresponding workshop sessions.
-
-### Data Access Notes
-
-| Item | Details |
-|------|---------|
-| Platform | Google Drive |
-| Organisation | By workshop stage |
-| Access | Links provided before workshop |
-| Recommendation | Download relevant data before each session |
-
----
 
 
 
