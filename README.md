@@ -65,5 +65,34 @@ SIDENCA is funded by the **Generalitat Valenciana (IVACE+i)** and the **European
 | Analysis Unit | Frozen 100 m × 100 m grid |
 | Objective | Demonstrate a reproducible workflow, not just produce a risk map |
 
+---
+
+### Block 2 — Satellite Imagery and Fire-Event Mapping
+
+**Purpose:** Use Earth Observation data to identify and characterise the wildfire event.
+
+**What to include:**
+
+| Item | Description |
+|------|-------------|
+| Data Sources | Sentinel-2 Level-2A, Copernicus Data Space, Google Earth Engine, MODIS/VIIRS, Copernicus EMS Rapid Mapping, EMSR905 |
+| Satellite Analysis | Natural-colour composites, false-colour composites, NBR, dNBR, burn-severity information |
+| NBR Formula | NBR = (B8A − B12) / (B8A + B12) |
+| dNBR Formula | dNBR = NBR(pre-fire) − NBR(post-fire) |
+| Important Note | dNBR is a post-fire assessment product and must NOT be used as a predictor in the occurrence model (information leakage) |
+
+**Expected Outputs:**
+
+| Output | Description |
+|--------|-------------|
+| Pre-fire satellite composite | Before the fire event |
+| Post-fire satellite composite | After the fire event |
+| NBR layers | Burn ratio indices |
+| dNBR layer | Difference NBR |
+| Burn-severity map | Classified burn severity |
+| Fire-event reference information | Event metadata and perimeter |
+
+---
+
 
 *Detailed workshop workflow and training materials will be added here.*
