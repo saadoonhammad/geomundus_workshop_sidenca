@@ -71,7 +71,7 @@ The workshop will use a combination of open-source and freely available geospati
 ---
 ## Data to Be Shared
 
-The workshop datasets will be shared through **Google Drive**. The shared data will be organised according to the different stages of the workshop workflow. Participants can access the relevant datasets as they progress through the training.
+The workshop datasets will be shared through **[Google Drive](https://drive.google.com/drive/u/2/folders/1m7z4fbKI0Un1kTRzREzV1aLwVH5sCHJt/)**. The shared data will be organised according to the different stages of the workshop workflow. Participants can access the relevant datasets as they progress through the training.
 
 ### Workshop Data Repository
 
