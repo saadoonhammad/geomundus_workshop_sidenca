@@ -15,8 +15,12 @@ This workshop is part of the **18th GeoMundus Conference**, which focuses on the
 
 The workshop presents a practical and reproducible workflow for transforming open Earth Observation and geospatial datasets into information that can support **wildfire risk assessment and operational decision support**.
 
+
 The training uses the **SIDENCA (Sistema Inteligente para la Detección de Riesgos y Toma de Decisiones ante Catástrofes)** project as a practical context. Participants will explore how satellite imagery, environmental variables, demographic information, built-environment data, meteorological observations and sensor data can be integrated into a common spatial modelling framework. 
+
+
 The workshop follows a recent wildfire case study from the **Comunitat Valenciana, Spain** and provides participants with an overview of the workflow from fire-event mapping and data preparation to machine-learning-based wildfire risk modelling, fire-spread simulation and operational decision support.
+
 ---
 
 ## About the SIDENCA Project
@@ -63,6 +67,7 @@ The workshop will use a combination of open-source and freely available geospati
 
 
 > Specific packages, scripts and environments used during the training will be provided through this repository where applicable.
+
 ---
 ## Data to Be Shared
 
@@ -88,6 +93,7 @@ The workshop datasets will be shared through **Google Drive**. The shared data w
 | Organisation | By workshop stage |
 | Access | Links provided before workshop |
 | Recommendation | Download relevant data before each session |
+
 ---
 
 ## Block 1 — Wildfire Case Study
@@ -205,6 +211,7 @@ The workshop datasets will be shared through **Google Drive**. The shared data w
 **Expected Output:** A calibrated wildfire probability map representing the estimated spatial probability of wildfire occurrence.
 
 ---
+
 ### Block 7 — Operational Decision Support
 
 **Purpose:** Connect modelling outputs to an operational decision-support workflow.
