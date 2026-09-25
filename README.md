@@ -9,14 +9,15 @@
 
 ---
 
-## Workshop
+### Workshop Overview
 
-### From Open Earth Observation Data to Operational Wildfire Decision Support: A Reproducible Framework for Risk Mapping and Fire Spread Modelling
+This workshop is part of the **18th GeoMundus Conference**, which focuses on the use of geospatial intelligence to strengthen disaster resilience, improve risk understanding, and support emergency management.
 
-This workshop is part of the **18th GeoMundus Conference**, focusing on the use of geospatial intelligence to strengthen disaster resilience and support evidence-based emergency management. The workshop will introduce participants to a practical and reproducible workflow for transforming open Earth Observation and geospatial data into information that can support wildfire risk assessment, fire spread modelling, and emergency decision-making.
+The workshop presents a practical and reproducible workflow for transforming open Earth Observation and geospatial datasets into information that can support **wildfire risk assessment and operational decision support**.
 
-The training will use the **SIDENCA** project as a practical example to demonstrate how multi-source geospatial data, Earth Observation, environmental information, population data, and field observations can be integrated into an operational disaster decision-support workflow.
+The training uses the **SIDENCA (Sistema Inteligente para la Detección de Riesgos y Toma de Decisiones ante Catástrofes)** project as a practical context. Participants will explore how satellite imagery, environmental variables, demographic information, built-environment data, meteorological observations, and sensor data can be integrated into a common spatial modelling framework.
 
+The workshop follows a recent wildfire case study from the **Comunitat Valenciana, Spain**, and provides participants with an overview of the workflow from fire-event mapping and data preparation to machine-learning-based wildfire risk modelling, fire-spread simulation, and operational decision support.
 ---
 
 ## About the SIDENCA Project
@@ -51,6 +52,18 @@ SIDENCA is funded by the **Generalitat Valenciana (IVACE+i)** and the **European
 
 ## Workshop Training
 
-The following sections will provide the practical training materials, datasets, code, and workflow used during the workshop.
+## Block 1 — Wildfire Case Study
+
+**Purpose:** Introduce the common case study and the central modelling question that guides the entire workshop.
+
+**What to include:**
+
+| Item | Description |
+|------|-------------|
+| Event Details | Start date (25 July 2026), location (near La Vall d'Uixó), affected area (Serra d'Espadà massif) |
+| Modelling Question | Can freely available data estimate spatial probability of wildfire occurrence? |
+| Analysis Unit | Frozen 100 m × 100 m grid |
+| Objective | Demonstrate a reproducible workflow, not just produce a risk map |
+
 
 *Detailed workshop workflow and training materials will be added here.*
